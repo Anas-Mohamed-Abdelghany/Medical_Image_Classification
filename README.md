@@ -28,6 +28,9 @@ AI-powered medical image classifier with 96% accuracy.
 - Results display
 
 ## 📈 Performance Analysis
+
+https://github.com/user-attachments/assets/8e05078c-4241-4bac-9b12-c1b8faf813c0
+
 - Training progress
 - Validation results
 - Real-world performance
